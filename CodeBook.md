@@ -12,7 +12,7 @@ For each record it is provided in tidy_data.txt:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-The tidy_data.txt combined the following records in the following files as the data in Columns categorized in 561 features:
+The tidy_data.txt combined the following records in the following files as the data in at least 561 columns categorized in 561 features:
 =========================================================================
 
 - 'features.txt': List of all features.
